@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Verilog-8E8D8D?style=for-the-badge&logo=verilog&logoColor=white">
-    <img src="https://img.shields.io/badge/SystemVerilog-5A5A5A?style=for-the-badge&logo=systemverilog&logoColor=white">
+    <img src="https://img.shields.io/badge/Verilog-90EE90?style=for-the-badge&logo=verilog&logoColor=white">
+    <img src="https://img.shields.io/badge/SystemVerilog-008000?style=for-the-badge&logo=systemverilog&logoColor=white">
   </div>
 </div>
 
