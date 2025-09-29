@@ -1,2 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=You Han - Ahn's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=You Han - Ahn's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36" />
+</div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Verilog-8E8D8D?style=for-the-badge&logo=verilog&logoColor=white"/> <img src="https://img.shields.io/badge/SystemVerilog-5A5A5A?style=for-the-badge&logo=systemverilog&logoColor=white"/>
