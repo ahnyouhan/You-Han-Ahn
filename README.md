@@ -17,7 +17,7 @@
 
 # 🚀 Tech Stacks
 
-| Languages 💻 | HDL & Embedded ⚙️ | Tools & Environment 🛠️ |
+| SW Languages 💻 | HDL & Embedded ⚙️ | Tools & Environment 🛠️ |
 |:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <br> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> | <img src="https://img.shields.io/badge/Verilog-0033CC?style=for-the-badge&logo=verilog&logoColor=white"> <br> <img src="https://img.shields.io/badge/SystemVerilog-181717?style=for-the-badge&logo=SystemVerilog&logoColor=white"> <br> <img src="https://img.shields.io/badge/RISC--V-505050?style=for-the-badge&logo=riscv&logoColor=white"> <br> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <br> <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stm32&logoColor=white"> | <img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white"> <br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <br> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
 
