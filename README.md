@@ -6,8 +6,8 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
     하드웨어 엔지니어를 꿈꾸는 안유한입니다.<br>
-    Email : youhanahn0316@gmail.com
-    Web Portfolio : ahnyouhan.co.kr
+    Email : youhanahn0316@gmail.com<br>
+    Web Portfolio : <a href="http://ahnyouhan.co.kr/" style="color: #c9d1d9; text-decoration: none;">ahnyouhan.co.kr</a><br>
   </div> 
 </div>
 
