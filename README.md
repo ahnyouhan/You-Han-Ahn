@@ -1,4 +1,4 @@
-<div align= "center">
+<!-- <div align= "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=YouHan-Ahn&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
@@ -26,4 +26,38 @@
     <a href=mailto:essbox01stu@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:essbox01stu@gmail.com"> </a>
   </div>  <br> 
   <div style="text-align: left;"> </div> 
+</div>
+ -->
+<div align= "center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=YouHan-Ahn&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+</div>
+
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 </h2>  
+  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    SoC 설계 및 검증 엔지니어를 꿈꾸는 안유한입니다.<br>
+    RISC-V Architecture와 UVM 검증 방법론에 관심이 많습니다.
+  </div> 
+</div>
+
+<br/>
+
+<div align="center">
+
+# 🚀 Tech Stacks
+
+| Languages 💻 | HDL & Verification ⚙️ | Tools & Environment 🛠️ |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <br> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> | <img src="https://img.shields.io/badge/Verilog-0033CC?style=for-the-badge&logo=verilog&logoColor=white"> <br> <img src="https://img.shields.io/badge/SystemVerilog-181717?style=for-the-badge&logo=SystemVerilog&logoColor=white"> <br> <img src="https://img.shields.io/badge/UVM-8A2BE2?style=for-the-badge&logoColor=white"> <br> <img src="https://img.shields.io/badge/RISC--V-505050?style=for-the-badge&logo=riscv&logoColor=white"> | <img src="https://img.shields.io/badge/Vivado-BAA636?style=for-the-badge&logo=xilinx&logoColor=white"> <br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <br> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
+
+</div>
+
+<br/>
+
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+  <div style="text-align: left;"> 
+    <a href="#"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+    <a href="mailto:essbox01stu@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
+  </div>  
 </div>
