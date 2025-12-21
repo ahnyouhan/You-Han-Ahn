@@ -6,7 +6,7 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
     하드웨어 엔지니어를 꿈꾸는 안유한입니다.<br>
-    Email : youhanahn0316@gmail.com<br>
+    Email : <a href="mailto:youhanahn0316@gmail.com" style="color: #c9d1d9; text-decoration: none;">youhanahn0316@gmail.com</a><br>
     Web Portfolio : <a href="http://ahnyouhan.co.kr/" style="color: #c9d1d9; text-decoration: none;">ahnyouhan.co.kr</a><br>
   </div> 
 </div>
@@ -28,27 +28,16 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧠 Projects </h2> 
   <div style="font-weight: 400; font-size: 15px; text-align: left; color: #c9d1d9;">
-    
-- 🏎️ **[프로젝트 이름 입력](프로젝트_레포지토리_URL)**: <br>
-    프로젝트에 대한 간단한 설명을 이곳에 적어주세요. (예: RISC-V 기반 CPU 설계 및 검증 프로젝트입니다.)
-    
-- 📡 **[프로젝트 이름 입력](프로젝트_레포지토리_URL)**: <br>
-    프로젝트 설명 (예: AXI4-Lite 인터페이스를 활용한 I2C Master IP 설계)
 
-- 🤖 **[프로젝트 이름 입력](프로젝트_레포지토리_URL)**: <br>
-    프로젝트 설명 (예: FPGA를 활용한 실시간 영상 처리 필터 구현)
+### 🏗️ Architecture & Core Design
+- **[프로젝트 이름 (예: RISC-V RV32I Core)](프로젝트_링크)** <br>
+  <img src="https://img.shields.io/badge/SystemVerilog-181717?style=flat-square&logo=SystemVerilog&logoColor=white"/> <img src="https://img.shields.io/badge/RISC--V-505050?style=flat-square&logo=riscv&logoColor=white"/> <img src="https://img.shields.io/badge/Vivado-BAA636?style=flat-square&logo=xilinx&logoColor=white"/> <br>
+  > RISC-V ISA를 지원하는 Single Cycle CPU Core 설계 및 어셈블리 검증 프로젝트입니다.
 
-  </div>
-</div>
+### 🔌 Interface & Bus Protocol
+- **[프로젝트 이름 (예: AXI4-Lite I2C Master)](프로젝트_링크)** <br>
+  <img src="https://img.shields.io/badge/Verilog-0033CC?style=flat-square&logo=verilog&logoColor=white"/> <img src="https://img.shields.io/badge/AMBA_AXI-000000?style=flat-square"/> <img src="https://img.shields.io/badge/UVM-8A2BE2?style=flat-square"/> <br>
+  > AXI4-Lite 버스 인터페이스 기반의 I2C Master IP 설계 및 UVM 검증 환경 구축 프로젝트입니다.
 
-<br/>
-
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔗 Links & Contact </h2> <br> 
-  <div style="text-align: left;"> 
-    <a href="http://ahnyouhan.co.kr/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"> </a>
-    <br><br>
-    <a href="#"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-    <a href="mailto:essbox01stu@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-  </div>  
-</div>
+### 📹 FPGA & Application
+- **[프로젝트 이름 (예
